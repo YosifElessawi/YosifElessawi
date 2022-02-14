@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YosifElessawi
 - 👀 I’m interested in Data Science and AI 
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently learning Data science and Web dev.
 - 📫 How to reach me yosifelessawi@yahoo.com
 
 <!---
