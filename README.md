@@ -43,18 +43,6 @@ I specialize in the intersection of **production engineering** and **AI architec
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | What It Does | Stack |
-|---|---|---|
-| [**Franco-Prompt**](https://github.com/YosifElessawi/Franco-Prompt) | VS Code extension translating Franco-Arabic mixed-language to English prompts | PydanticAI · Gemini · FastAPI · Logfire |
-| [**Ticket AI Agent**](https://github.com/YosifElessawi/ticket_agent) | Hybrid AI support router: RAG classifies → Doer agents resolve → HITL for complex cases | PydanticAI · pgvector · FastAPI · Gemini |
-| [**Food Ordering Agent**](https://github.com/YosifElessawi/Food-Ordering-Agent) | WhatsApp AI commerce bot with a full state-machine order flow and local LLM inference | PydanticAI · Ollama · Llama 3.1 · FastAPI |
-| [**Sakan**](https://github.com/YosifElessawi/sakan) | Real estate platform with smart property search and AI-assisted recommendations | Next.js · FastAPI · React |
-| [**Fullstack Auth Module**](https://github.com/YosifElessawi/Fullstack_Auth_Module) | Production-ready OAuth2 + JWT + RBAC template for full-stack apps | FastAPI · Next.js 15 · TypeScript |
-
----
-
 ### 📫 Let's Connect
 
 <p>
