@@ -55,19 +55,10 @@ I specialize in the intersection of **production engineering** and **AI architec
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YosifElessawi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosifElessawi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p>
   <a href="https://github.com/YosifElessawi"><img src="https://img.shields.io/badge/GitHub-YosifElessawi-181717?style=flat-square&logo=github"/></a>
   &nbsp;
-  <a href="mailto:youssof.elessawy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:youssofelessawy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
