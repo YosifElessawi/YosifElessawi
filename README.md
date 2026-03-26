@@ -29,18 +29,38 @@ I go beyond prototyping to engineer **reliable, end-to-end AI systems**. My expe
 
 ### 🛠 Tech Stack
 
+### 🛠 Tech Stack
+
+**AI & Data**
 <p>
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PydanticAI-Expert-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js_15-Advanced-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-Advanced-47848F?style=flat-square&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgvector-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini_2.5-Advanced-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-Advanced-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Logfire-Expert-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-Proficient-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas/NumPy-Proficient-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+**Backend & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-Advanced-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-Expert-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
   <img src="https://img.shields.io/badge/GCP-Intermediate-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-Proficient-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-Intermediate-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</p>
+
+**Frontend, Desktop & Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js_15-Advanced-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Electron-Advanced-47848F?style=flat-square&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-Expert-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
