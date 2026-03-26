@@ -1,14 +1,15 @@
-<h1 align="center">Hey, I'm Youssof 👋</h1>
+<h1 align="center">Youssof Elessawy</h1>
 
 <p align="center">
   <b>AI Engineer & Software Architect</b><br/>
-  Building production-grade agentic systems, LLM pipelines & scalable cloud architectures.<br/>
   🇪🇬 Alexandria, Egypt &nbsp;|&nbsp; 🎯 GCP Professional Cloud Architect (In Progress)
 </p>
 
 <p align="center">
   <a href="https://github.com/YosifElessawi"><img src="https://komarev.com/ghpvc/?username=YosifElessawi&color=blueviolet&style=flat-square" alt="profile views" /></a>
 </p>
+
+> **Agentic-Native Engineer** with a deep foundation in scalable full-stack architecture. I specialize in designing stateful, multi-turn AI systems (ReAct, Router Pattern) that autonomously execute complex, real-world orchestration. By architecting the entire stack—from vector databases (`pgvector`) to highly concurrent asynchronous backends (`FastAPI`, `Node.js`)—I ensure that cutting-edge AI features are seamlessly integrated into robust production applications, not just isolated sandbox scripts.
 
 ---
 
@@ -27,9 +28,7 @@ I go beyond prototyping to engineer **reliable, end-to-end AI systems**. My expe
 
 ---
 
-### 🛠 Tech Stack
-
-### 🛠 Tech Stack
+### ⚙️ Core Technologies
 
 **AI & Data**
 <p>
