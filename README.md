@@ -12,16 +12,17 @@
 
 ---
 
-### 🧠 What I Build
+### 🧠 What I Deliver
 
-I specialize in the intersection of **production engineering** and **AI architecture** — turning cutting-edge LLM research into reliable, observable systems that actually work at scale.
+I go beyond prototyping to engineer **reliable, end-to-end AI systems**. My expertise spans the entire engineering lifecycle: I architect, securely deploy, rigorously test, and continually monitor autonomous agents to guarantee high-accuracy performance at scale.
 
 ```text
-🤖  Agentic AI     →  ReAct agents, Router Pattern, Human-in-the-Loop, Computer Use
+🤖  Agentic AI     →  ReAct agents, Router Pattern, Human-in-the-Loop, Gemini Computer Use
 🔍  RAG Pipelines  →  pgvector, hybrid search, semantic deduplication
-⚡  Event-Driven   →  Async microservices, queuing, multi-model orchestration
-🖥️  Full-Stack     →  Next.js 15 (App Router), Electron (offline-first), FastAPI
-☁️  Cloud          →  GCP (Cloud Run, Cloud Build), Docker, GitHub Actions
+📈  Observability  →  Evaluation datasets, LLM benchmarking, Logfire telemetry
+⚡  Event-Driven   →  Async microservices, queuing, multi-model API orchestration
+🖥️  Full-Stack     →  FastAPI, NestJS, Next.js 15 (App Router), Electron (offline-first)
+☁️  Cloud & Ops    →  GCP, Docker, Terraform, CI/CD automated deployment pipelines
 ```
 
 ---
@@ -38,6 +39,7 @@ I specialize in the intersection of **production engineering** and **AI architec
   <img src="https://img.shields.io/badge/Gemini_2.5-Advanced-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Logfire-Expert-FF6B35?style=flat-square"/>
   <img src="https://img.shields.io/badge/GCP-Intermediate-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-Proficient-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
